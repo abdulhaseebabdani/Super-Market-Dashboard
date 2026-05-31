@@ -15,4 +15,7 @@ The data has sourced from **Kaggle.com** with some alterations for dashboard pre
 
 📊 How This Dashboard Helps Understand Data: Simplifies complex data into easy-to-read visuals. Helps identify sales trends and seasonality patterns. Reveals which product lines generate the most revenue. Shows profit vs cost relationship, improving financial understanding. Identifies high-value customers and buying behavior. Highlights which stores or regions perform better.Improves data-driven decision making for business growth and saves time by replacing manual analysis with automation.
 
-Screenshts: 
+Screenshots: 
+https://github.com/abdulhaseebabdani/Super-Market-Dashboard/blob/main/Super%20Market%20Dashboard-Overview.PNG
+https://github.com/abdulhaseebabdani/Super-Market-Dashboard/blob/main/Super%20Market%20Dashboard-Profitability.PNG
+https://github.com/abdulhaseebabdani/Super-Market-Dashboard/blob/main/Super%20Market%20Dashboard-Sales.PNG 
